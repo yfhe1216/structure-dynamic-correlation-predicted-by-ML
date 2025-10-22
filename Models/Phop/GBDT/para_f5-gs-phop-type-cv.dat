@@ -1,0 +1,2 @@
+{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_split': 20, 'n_estimators': 80}
+0.261558472614026 0.2976902160717448
